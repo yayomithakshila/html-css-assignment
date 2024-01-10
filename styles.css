@@ -1,0 +1,82 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(19, 16, 16);
+    background-color: beige;
+}
+
+.logo{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 0);
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.container{
+    width: 700px;
+    margin: 16px auto;
+}
+
+nav a ,nav a:visited,nav a :active{
+    color: rgb(189, 34, 57);
+    text-decoration: underlines;
+    text-transform: none;
+}
+
+
+.Author{
+    width: 200px;
+    margin: 16px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(220, 87, 87);
+    font-size: 15px;
+
+}
+
+.date{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(220, 87, 87);
+    font-size: 15px;
+    width: 200px;
+
+    
+}
+
+img{
+
+    width: 400px;
+    height: auto;
+}
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:rgb(91, 4, 4);
+    text-align: justify;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:rgb(91, 4, 4);
+    text-align: justify;
+
+}
+
+p{
+
+    text-align: justify;
+}
+
+footer{
+background-color: rgb(134, 114, 114);
+color: rgb(205, 16, 38);
+font-size: 16px ;
+padding-top: 16px;  
+padding-bottom: 16px;
+padding-left: 16px;
+padding-right: 16px;
+}
